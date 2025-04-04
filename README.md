@@ -1,4 +1,13 @@
 ## Hi there 👋
+My name is Graham!
+
+I currently work at Aderant in R&D
+
+⚡Grateful Dead and ⚾ Braves Baseball 
+
+
+
+
 
 <!--
 **g-gussack/g-gussack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
